@@ -1,2 +1,3 @@
-# preload-retail-pricing
-Auto-created test repo (preload-retail-pricing)
+# Credit Risk Model
+
+See `.mrm/` for model governance.
