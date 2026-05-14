@@ -1,0 +1,10 @@
+drift_detection: true
+features:
+- price_delta
+- demand_index
+- competitor_price
+psi_threshold: 0.2
+quality_metrics:
+- completeness
+- uniqueness
+schedule: daily

@@ -1,2 +1,3 @@
-# preload-retail-pricing
-Auto-created test repo (preload-retail-pricing)
+# Pricing Engine
+
+Optimization model determining base ceilings and markdowns.
