@@ -1,3 +1,11 @@
-# Pricing Engine
+# Dynamic Retail Pricing Model
 
-Optimization model determining base ceilings and markdowns.
+Price elasticity estimation and dynamic pricing engine using
+Gradient Boosting regression with margin floor enforcement.
+
+## Quick Start
+
+```bash
+pip install -r requirements.txt
+python -m src.pipelines.train
+```
